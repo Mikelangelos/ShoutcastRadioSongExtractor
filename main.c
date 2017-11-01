@@ -1,4 +1,4 @@
-/* To compile:
+/* To compile with MSVC:
  * cl main.c /nologo /Zi /link gdi32.lib user32.lib ws2_32.lib
 */
 #include <stdio.h>
