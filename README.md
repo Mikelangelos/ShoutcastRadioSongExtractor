@@ -1,6 +1,6 @@
 # Shoutcast Radio Song Extractor
 ### ! A word of Caution !
-This is a project I slammed in a few hours and my only concern was for it be functional (so that I can get the song titles). It's not ment to be used by anyone other than me so it doesn't contain any security against errors that my occur and its features are bare minimal for it to be functional. Further more, the function names and the entire structure of the program is not thought through at all.
+This is a project I slammed in a few hours and my only concern was for it be functional (so that I can get the song titles). It's not ment to be used as a generic song title extractor so its features are bare minimal for it to be functional. Further more, the function names and the entire structure of the program is not thought through at all.
 ### What does it do?
 Song extractor is a very simple tiny program that connects to a radio station from [Shoutcast.com](http://www.shoutcast.com) and saves the songs the station plays on a .txt file (if the station shares the current song title of course).
 ### How does it do it?
